@@ -15,7 +15,7 @@ Traditional Cold Dark Matter models predict infinitely sharp central density pea
 - **Mathematical Modeling:** NumPy & SciPy (Fast Fourier Transforms, grid vectorization, linear algebra)
 - **Data Visualization:** Plotly (High-performance 2D heatmaps and rotatable 3D surface models)
 
-## How to Run
+## How to Run Cosmoquantum
 1. Download the repository containing the code file (named `CosmoQuantum.py`).
 2. Open your terminal or command prompt and install the required packages:
    ```bash
