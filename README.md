@@ -20,11 +20,11 @@ Traditional Cold Dark Matter models predict infinitely sharp central density pea
 2. Open your terminal or command prompt and install the required packages:
    ```bash
    pip install streamlit numpy plotly scipy
-3. Run the application:
-```bashFirst enter this in your command prompt:
+3. Running the application:
+First enter this in your command prompt:
+```bash
    cd downloads
 ```
-```Then Run the application using Python:
-```
+Then Run the application using Python:
 ```bash
    python -m streamlit run Cosmoquantum.py
