@@ -9,7 +9,7 @@ Traditional Cold Dark Matter models predict infinitely sharp central density pea
 - **3D Soliton & Wave Granule Visualizer:** Render interactive 3D topographic relief maps using Plotly where height and color represent quantum density complete with central supermassive black hole gravitational spikes.
 - **Spectral Schrödinger-Poisson Solver:** Execute time-dependent numerical wave simulations using Fast Fourier Transforms (FFT) to model how quantum wave packets settle into equilibrium.
 - **Observational Data Verification:** Overlay real telescope data points from the Local Volume Database (LVDB) onto theoretical FDM/CDM scaling curves.
-- **Gamified Research Campaign:** Engage with a multi-tier mission framework featuring analytical reveals and deep-dive cosmic physics challenges.
+- **Gamified Research Campaign:** Engage with a multi-tier mission framework featuring reveals and deep-dive cosmic physics challenges.
 ## Technology Used
 - **UI:** Streamlit (Interactive sliders, tabs, layout design)
 - **Mathematical Modeling:** NumPy & SciPy (Fast Fourier Transforms, grid vectorization, linear algebra)
@@ -25,6 +25,6 @@ First enter this in your command prompt:
    ```bash
    cd downloads
    ```
-Then Run the application using Python:
+Then run the application using Python:
    ```bash
    python -m streamlit run Cosmoquantum.py
