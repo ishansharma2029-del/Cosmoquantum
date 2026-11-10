@@ -1,5 +1,5 @@
 # CosmoQuantum
-
+   Link to the app: https://cosmoquantum-a6fgsun5zqfo4xkmt7gz3e.streamlit.app/
 CosmoQuantum is a web-based scientific simulation and educational platform designed to model and contrast Fuzzy Dark Matter (FDM) and Cold Dark Matter (CDM). Built using Python, Streamlit, and Plotly, the application translates graduate-level astrophysics such as Schrödinger-Poisson quantum wave equations, Madelung quantum pressure, Schive soliton profiles, and PyUltraLight spectral Fourier solvers into a fully interactive user experience.
 
 Traditional Cold Dark Matter models predict infinitely sharp central density peaks (NFW cusps) that fail to match observations on small galactic scales, a major puzzle known as the Cusp-Core Crisis. CosmoQuantum visualizes how ultralight axion particles ($10^{-22}\text{eV}$) and macroscopic quantum pressure naturally form smooth, flat central soliton cores surrounded by turbulent interference granules.
@@ -15,7 +15,10 @@ Traditional Cold Dark Matter models predict infinitely sharp central density pea
 - **Mathematical Modeling:** NumPy & SciPy (Fast Fourier Transforms, grid vectorization, linear algebra)
 - **Data Visualization:** Plotly (High-performance 2D heatmaps and rotatable 3D surface models)
 
-## How to Run Cosmoquantum
+## How to Run Cosmoquantum:
+#Here is a link to the application: https://cosmoquantum-a6fgsun5zqfo4xkmt7gz3e.streamlit.app/
+                                  #OR
+#If you would like to download the application locally here are the steps:
 1. Download the repository containing the code file (named `CosmoQuantum.py`).
 2. Open your terminal or command prompt and install the required packages:
    ```bash
