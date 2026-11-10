@@ -16,9 +16,11 @@ Traditional Cold Dark Matter models predict infinitely sharp central density pea
 - **Data Visualization:** Plotly (High-performance 2D heatmaps and rotatable 3D surface models)
 
 ## How to Run Cosmoquantum:
-#Here is a link to the application: https://cosmoquantum-a6fgsun5zqfo4xkmt7gz3e.streamlit.app/
-                                  #OR
-#If you would like to download the application locally here are the steps:
+
+Here is a link to the app: https://cosmoquantum-a6fgsun5zqfo4xkmt7gz3e.streamlit.app/ hosted on the Streamlit Cloud
+                                  OR
+If you would like to download the application locally here are the steps:
+
 1. Download the repository containing the code file (named `CosmoQuantum.py`).
 2. Open your terminal or command prompt and install the required packages:
    ```bash
