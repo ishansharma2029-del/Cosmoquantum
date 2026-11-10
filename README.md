@@ -22,4 +22,5 @@ Traditional Cold Dark Matter models predict infinitely sharp central density pea
    pip install streamlit numpy plotly scipy
 3. Run the application:
 ```bash
+   cd downloads 
    python -m streamlit run Cosmoquantum.py
